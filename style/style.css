@@ -80,7 +80,7 @@ a {
 }
 
 .banner_section {
-    background-image: url(/images/banner_img.jpeg);
+    background-image: url(../images/banner_img.jpeg);
     background-repeat: no-repeat;
     width: 100%;
     min-height: 400px;
